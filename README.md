@@ -3,5 +3,7 @@
 ## Dependencies:
 * streamlist
 
-### Tutorial
-https://www.youtube.com/watch?v=-IM3531b1XU
+
+### Source
+Dataset: https://www.macrotrends.net/2575/us-dollar-yuan-exchange-rate-historical-chart
+Tutorial: https://www.youtube.com/watch?v=-IM3531b1XU
