@@ -1,4 +1,4 @@
-# StreamlitApp
+# Dollar Yuan Exchange Rate in 35 years
 
 ## Dependencies:
 * streamlist
