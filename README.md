@@ -3,6 +3,7 @@ Interactive historical chart showing the daily U.S. Dollar - Chinese Yuan (USDCN
 
 ## Dependencies:
 * streamlist
+streamlit is an open-source app framework for Machine Learning and Data Science teams.
 * plotly
 
 ### Source
